@@ -1,0 +1,23 @@
+{
+    "toDoApp": {
+        "items" : {
+            "home": {
+                "title": "Items",
+                "createLabel": "Créer un nouveau Items",
+                "createOrEditLabel": "Créer ou éditer un Items"
+            },
+            "created": "Un nouveau Items a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Items avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Items avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Items {{ id }} ?"
+            },
+            "detail": {
+                "title": "Items"
+            },
+            "type": "Type",
+            "name": "Name",
+            "effectiveStartDate": "Effective Start Date"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "toDoApp": {
+        "items" : {
+            "home": {
+                "title": "Items",
+                "createLabel": "Items を追加",
+                "createOrEditLabel": "Itemsを追加または編集"
+            },
+            "created": "A new Items is created with identifier {{ param }}",
+            "updated": "A Items is updated with identifier {{ param }}",
+            "deleted": "A Items is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Items {{ id }}を削除してもよろしいですか？"
+            },
+            "detail": {
+                "title": "Items"
+            },
+            "type": "Type",
+            "name": "Name",
+            "effectiveStartDate": "Effective Start Date"
+        }
+    }
+}

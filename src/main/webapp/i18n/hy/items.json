@@ -1,0 +1,23 @@
+{
+    "toDoApp": {
+        "items" : {
+            "home": {
+                "title": "Items",
+                "createLabel": "Ստեղծել նոր Items",
+                "createOrEditLabel": "Ստեղծել կամ փոփոխել Items"
+            },
+            "created": "Նոր Items ստեղծված է {{ param }} նունացուցիչով",
+            "updated": "Items թարմացվաց է {{ param }} նունացուցիչով",
+            "deleted": "Items հեռացված է {{ param }}  նունացուցիչով",
+            "delete": {
+                "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Items {{ id }}?"
+            },
+            "detail": {
+                "title": "Items"
+            },
+            "type": "Type",
+            "name": "Name",
+            "effectiveStartDate": "Effective Start Date"
+        }
+    }
+}
